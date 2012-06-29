@@ -1,0 +1,1 @@
+javascript:(window.open('http://example.com/gtpd?u='%20+%20encodeURI(document.URL.replace(/\/blob\//,'/raw/'))))()
